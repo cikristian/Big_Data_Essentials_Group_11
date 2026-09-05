@@ -30,7 +30,7 @@ Big_Data_Essentials_Group_11/
 │   └── 03_temporal_severity_risk.ipynb # Tasks 3–8 — full analytics pipeline
 ├── screenshots/                        # HDFS listings, Spark output, explain() plans
 ├── report/
-│   └── RRSIS_Technical_Report.docx     # Full technical report (Word)
+│   └── RRSIS_Technical_Report.pdf     # Full technical report (pdf)
 ├── RRSIS_Presentation.pptx             # Viva presentation slides
 └── README.md                           # This file
 ```
